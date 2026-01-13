@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-music-repo
-draft-node
-prototype
-work-score
+### Works in Progress
+- music-repo: 音楽嗜好の擬人化
+- draft-node: Single Source of Truth
+- prototype: adv
+- work-score: tauri
