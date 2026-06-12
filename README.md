@@ -4,4 +4,4 @@ A high school junior
 - **Pixeln**
 - **FlowForge**
 ### Skills
-<img src="https://skillicons.dev/icons?i=rust,ts,react,npm,nodejs,postgres,redis,docker,aws,cloudflare,git,vim,neovim&perline=9" />
+<img src="https://skillicons.dev/icons?i=rust,ts,react,npm,nodejs,postgres,redis,docker,aws,cloudflare,git&perline=9" />
